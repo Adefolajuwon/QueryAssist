@@ -7,7 +7,7 @@
 - [Contributors](#contributors)
 
 ## Introduction
-The **CampusBOLT** is a robust solution designed to assist students with administrative queries using RAG and LLMs. It serves as a virtual advisor, providing timely and accurate information, making the administrative process more efficient and student-friendly.
+The **Query asssit** is a robust solution designed to assist students with administrative queries using RAG and LLMs. It serves as a virtual advisor, providing timely and accurate information, making the administrative process more efficient and student-friendly.
 
 ## Features
 - **Uses Mistral large model/Groq**: Groq helps in faster inference speeds, whilst Mistral gives a slightly accurate answer, based on user's need.
@@ -46,10 +46,4 @@ The **CampusBOLT** is a robust solution designed to assist students with adminis
     ```bash
     streamlit run CampusBOLT.py
 
-
-## Contributors
-1. Achilleas Drakou - [LinkedIn](https://www.linkedin.com/in/drakou/)
-2. Irene Sunny - [LinkedIn](https://www.linkedin.com/in/irenesunny/), [Github](https://github.com/IreneSunny96)
-3. Poongkundran Thamaraiselvan - [LinkedIn](https://www.linkedin.com/in/poongkundran-thamaraiselvan/), [GitHub](https://github.com/Poonge1598)
-4. Roshan Velpula - [LinkedIn](https://www.linkedin.com/in/roshan-velpula/), [GitHub](https://github.com/Roshan-Velpula)
 
